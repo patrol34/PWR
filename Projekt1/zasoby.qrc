@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/eurusd.png</file>
+        <file>img/gbpaud.png</file>
+        <file>img/usdchf.png</file>
+    </qresource>
+</RCC>
